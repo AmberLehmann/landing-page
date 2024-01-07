@@ -1,2 +1,2 @@
 # landing-page
-Mock-up for website
+Mock-up for a website homepage.
